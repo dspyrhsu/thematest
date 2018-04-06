@@ -1,2 +1,3 @@
-# thematest
-Test-Repository für die Bearbeitung eines Themas
+Hallo Miri, ich benutze jetzt auch GitHab...
+
+Lg, Kristina 
